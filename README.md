@@ -4,7 +4,7 @@ PHOTO ANALYSIS is an AI-powered psychoanalytic engine that interprets personalit
 
 ✅ Live Now https://photopsychoanalysis.xyz
 
-What PHOTO ANALYSIS Does
+What PHOTO PSYCHOANALYSIS Does
 
 Facial & Behavioral Analysis — Detects subtle emotional and cognitive cues from facial expression, posture, and gesture.
 
@@ -26,4 +26,4 @@ Analysts & Developers — Build systems that understand personality from multimo
 
 Core Idea
 
-PHOTO ANALYSIS fuses image, voice, and text into one interpretive framework. It transforms media into a psychological mirror—revealing the mind behind the face, the tone, and the word.
+PHOTO PSYCHOANALYSIS fuses image, voice, and text into one interpretive framework. It transforms media into a psychological mirror—revealing the mind behind the face, the tone, and the word.
